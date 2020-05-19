@@ -24,6 +24,7 @@
 - [Screenshots](#screenshots)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
+- [Contact](#contact)
 
 ## Features
 
@@ -39,7 +40,7 @@
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/HiRahmat-Dev/carrent-vuejs.git`
+2. Type `git clone https://github.com/bagakibadi/carrent-vuejs.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first, [check here](#related-project-backend)
@@ -74,7 +75,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Carrent`](https://github.com/HiRahmat-Dev/carrent-api)
+* [`Backend-Carrent`](https://github.com/bagakibadi/carrent-api)
 
 ## Contributors
 <center>
@@ -113,3 +114,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_SECRET_KEY
     </tr>
   </table>
 </center>
+
+## Contact
+
+MyEmail : solaybagus2@gmail.com
